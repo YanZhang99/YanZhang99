@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YanZhang99
-- 👀 I’m interested in Functional data analysis and Model Selection
+- 👀 I’m interested in Functional Data Analysis and Model Selection
 - 🌱 I’m currently learning  R and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
